@@ -36,7 +36,7 @@ Python, Pandas, Matplotlib, Seaborn, Tableau / Power BI
 ## Dashboard
 [**View Interactive Dashboard**](https://lookerstudio.google.com/reporting/4d2c03af-531b-4c06-b35e-49e91be1cbac)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## Project Files
 - [Notebook](walmart-e-commerce-sales-analysis.ipynb)
